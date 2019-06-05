@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Cognito</string>
+    <string name="app_main_screen_title">Cognito Auth Demo</string>
+
+    <!-- TODO: Add your Cognito pool details here -->
+    <string name="cognito_web_domain">school.rollbook.com.au</string>
+    <string name="cognito_client_id">3d7ajvon6clkcj87os8qlh16vp</string>
+    <string name="cognito_client_secret">12mcgpr7lhjhhba549eda9l503rfvu8ntlqga6finvai6bkpvj79</string>
+    <string name="sign_in_redirect">https://www.rollbook.com.au</string>
+    <string name="sign_out_redirect">https://www.rollbook.com.au/signout</string>
+    <string name="pool_id">ap-southeast-2_rnSQIQb0s</string>
+
+    <!-- Values for this demo App -->
+    <string name="app_access_token">access_token</string>
+    <string name="app_id_token">id_token</string>
+
+
+</resources>
